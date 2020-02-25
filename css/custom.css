@@ -1,0 +1,40 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	
+}
+#hero
+{
+	background-image: url('https://source.unsplash.com/1600x900/?forest-night');
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #1d1d1d;
+	
+}
+#hero ul
+{
+	list-style: none;
+}
+
+#hero ul li
+{
+	display: inline-block;
+	margin: 15px 15px;
+	font-size: 25px;
+}
+
+.para
+{
+	display: none;
+	color: #ffffff;
+}
+
+
+
+#icons
+{
+	font-size: 45px;
+	font-weight: lighter;
+}
+
